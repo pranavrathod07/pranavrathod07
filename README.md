@@ -1,144 +1,237 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20Rathod&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:1a1a2e,100:16213e&height=250&section=header&text=PRANAV%20RATHOD&fontSize=70&fontColor=58a6ff&fontAlignY=45&desc=⚡%20Building%20the%20Future%20•%20One%20Commit%20at%20a%20Time%20⚡&descAlignY=65&descSize=16&animation=fadeIn&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
-<a href="https://twitter.com/p_r_a_n_a_v___07">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:pranavrathod1330@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/pranavrathod07">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🤖+Creator+of+J.A.R.V.I.S+Cybernetic+AI;🛒+Full+Stack+%26+E-Commerce+Architect;📱+Flutter+Mobile+App+Developer;🧠+AI+%2F+ML+Systems+Builder;🏨+Enterprise+System+Developer;🔥+18+y%2Fo+•+20%2B+Projects+•+Infinite+Drive)](https://github.com/pranavrathod07)
+
+</div>
 
 <br/>
-<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9EF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pranav+Rathod+%F0%9F%91%8B;18+y%2Fo+Full+Stack+Developer;Building+real-world+products;React+%7C+Node.js+%7C+Flutter+%7C+Python;Open+to+Collaborate+%26+Internships" alt="Typing SVG" />
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rathod-b5469a318/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p_r_a_n_a_v____07/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrathod1330@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavrathod07)
+[![Profile Views](https://komarev.com/ghpvc/?username=pranavrathod07&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/pranavrathod07)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; `whoami`
 
 ```typescript
-const pranav = {
-  name        : "Pranav Rathod",
-  age         : 18,
-  role        : "Full Stack Developer & CS Student",
-  location    : "India 🇮🇳",
-  email       : "pranavrathod1330@gmail.com",
-  twitter     : "@p_r_a_n_a_v___07",
-
-  techStack   : {
-    frontend  : ["React", "Next.js", "HTML", "CSS", "JavaScript", "TypeScript"],
-    backend   : ["Node.js", "Express.js", "Python"],
-    mobile    : ["Flutter", "Dart"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman", "Figma"],
-  },
-
-  currentFocus : "Building scalable full-stack & mobile applications",
-  openTo       : ["Internships", "Open Source", "Freelance Projects"],
-  funFact      : "I write code first, ask questions later 😄",
-};
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   const PRANAV_RATHOD = {                                        ║
+║                                                                  ║
+║     identity : {                                                 ║
+║       name      : "Pranav Rathod",                              ║
+║       age       : 18,                                            ║
+║       origin    : "India 🇮🇳",                                   ║
+║       status    : "Building the future, one repo at a time"     ║
+║     },                                                           ║
+║                                                                  ║
+║     expertise : {                                                ║
+║       languages : ["TypeScript", "JavaScript", "Python",        ║
+║                    "Dart", "Kotlin", "HTML", "CSS"],            ║
+║       frontend  : ["React", "Next.js", "Tailwind CSS"],         ║
+║       backend   : ["Node.js", "Express.js"],                    ║
+║       mobile    : ["Flutter", "Android (Kotlin)"],              ║
+║       domains   : ["AI Systems", "E-Commerce", "FinTech",       ║
+║                    "Hotel Mgmt", "Food Delivery", "AdTech"]     ║
+║     },                                                           ║
+║                                                                  ║
+║     flagship : [                                                 ║
+║       "J.A.R.V.I.S  — Cybernetic AI Assistant",                ║
+║       "Nexus AI Suite — Full AI Platform",                      ║
+║       "v0 E-Commerce Platform",                                  ║
+║       "FooDex — Food Delivery System",                          ║
+║       "HOTEL-BOOKING Enterprise System",                         ║
+║       "AdsBajar — Mobile Ads App"                               ║
+║     ],                                                           ║
+║                                                                  ║
+║     currentGoal : "Securing a top-tier tech internship",        ║
+║     openTo      : ["Internships", "Collabs", "Open Source"],    ║
+║     contact     : "pranavrathod1330@gmail.com",                 ║
+║                                                                  ║
+║     funFact : "I built an AI assistant at 18. What's ur excuse?"║
+║                                                                  ║
+║   };                                                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack & Tools
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend & Languages**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp; Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavrathod07&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrathod07&layout=compact&theme=github_dark&border_radius=10&hide_border=true&langs_count=8" height="165"/>
+**⚡ Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,dart,kotlin,html,css&theme=dark)](https://github.com/pranavrathod07)
+
+**🎨 Frontend & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vite&theme=dark)](https://github.com/pranavrathod07)
+
+**⚙️ Backend & Runtime**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python&theme=dark)](https://github.com/pranavrathod07)
+
+**🗄️ Databases & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase&theme=dark)](https://github.com/pranavrathod07)
+
+**🛠️ Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&theme=dark)](https://github.com/pranavrathod07)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp; Featured Projects
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavrathod07&theme=github-dark-blue&hide_border=true&border_radius=10" width="70%"/>
+| 🤖 AI & Intelligent Systems | 🛒 Commerce & Platforms |
+|:---:|:---:|
+| [![J.A.R.V.I.S](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=J.A.R.V.I.S&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/J.A.R.V.I.S) | [![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=v0-e-commerce-platform-build&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/v0-e-commerce-platform-build) |
+| [![Nexus AI](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=nexus-ai-suite&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/nexus-ai-suite) | [![AdsBajar](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=AdsBajar&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/AdsBajar) |
+
+| 🏨 Enterprise Systems | 🍕 Consumer Apps |
+|:---:|:---:|
+| [![Hotel Booking](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=HOTEL-BOOKING&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/HOTEL-BOOKING) | [![FooDex](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=FooDex-Single-Vender&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/FooDex-Single-Vender) |
+| [![hotel-website](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=hotel-website&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/hotel-website) | [![EMI-PRO](https://github-readme-stats.vercel.app/api/pin/?username=pranavrathod07&repo=EMI-PRO&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/pranavrathod07/EMI-PRO) |
 
 </div>
 
----
+> 🔒 *Most projects are private — showcasing enterprise-grade systems built for real-world use cases.*
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranavrathod07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranavrathod07&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Pranav's+GitHub+Stats" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrathod07&layout=donut&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&count_private=true" height="180"/>
 
 </div>
 
----
-
-## 📈 Contribution Graph
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavrathod07&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavrathod07&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="65%"/>
 
 </div>
 
----
-
-## 🤝 Let's Connect & Collaborate
+<br/>
 
 <div align="center">
 
-> *"The best way to learn is to build. The best way to grow is to share."*
+<img src="https://github-profile-trophy.vercel.app/?username=pranavrathod07&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
-I'm always open to interesting projects, open source contributions, and learning opportunities.
+</div>
 
-📬 **Reach me anytime:** [pranavrathod1330@gmail.com](mailto:pranavrathod1330@gmail.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a href="https://twitter.com/p_r_a_n_a_v___07">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavrathod07&theme=react-dark&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavrathod07/pranavrathod07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavrathod07/pranavrathod07/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pranavrathod07/pranavrathod07/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 What I'm Building
+
+```python
+class PranavRathod:
+
+    CURRENT_PROJECTS = [
+        "🤖  J.A.R.V.I.S  — Next-gen AI Cybernetic Assistant",
+        "🧠  Nexus AI Suite — Unified AI Platform",
+        "🛒  Enterprise E-Commerce Platform (v0)",
+        "🍕  FooDex — Smart Food Delivery System",
+        "📱  AdsBajar — Mobile Ads Exploration App (Kotlin)",
+        "🏨  HOTEL-BOOKING — Full Enterprise System",
+    ]
+
+    LEARNING_NOW = [
+        "Advanced AI/ML Integration in Web Apps",
+        "Microservices Architecture",
+        "System Design at Scale",
+    ]
+
+    OPEN_TO = [
+        "🚀 Tech Internships",
+        "🤝 Open Source Collaboration",
+        "💡 Startup Ideas & Projects",
+        "📩 pranavrathod1330@gmail.com",
+    ]
+
+    def motto(self) -> str:
+        return "Build fast. Break things. Learn faster. Ship better. 🔥"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranav-rathod-b5469a318/">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/p_r_a_n_a_v____07/">
+  <img src="https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:pranavrathod1330@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+> *"I'm 18, I've built JARVIS, an AI suite, an e-commerce platform, a hotel system, and a food delivery app.*
+> *The question isn't what I've done — it's what we can build together."*
+>
+> — **Pranav Rathod**
+
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranavrathod07&color=2C9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

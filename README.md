@@ -34,36 +34,36 @@
 ║   const PRANAV_RATHOD = {                                        ║
 ║                                                                  ║
 ║     identity : {                                                 ║
-║       name      : "Pranav Rathod",                              ║
+║       name      : "Pranav Rathod",                               ║
 ║       age       : 18,                                            ║
-║       origin    : "India 🇮🇳",                                   ║
-║       status    : "Building the future, one repo at a time"     ║
+║       origin    : "India IN",                                    ║
+║       status    : "Building the future, one repo at a time"      ║
 ║     },                                                           ║
 ║                                                                  ║
 ║     expertise : {                                                ║
-║       languages : ["TypeScript", "JavaScript", "Python",        ║
-║                    "Dart", "Kotlin", "HTML", "CSS"],            ║
-║       frontend  : ["React", "Next.js", "Tailwind CSS"],         ║
-║       backend   : ["Node.js", "Express.js"],                    ║
-║       mobile    : ["Flutter", "Android (Kotlin)"],              ║
-║       domains   : ["AI Systems", "E-Commerce", "FinTech",       ║
-║                    "Hotel Mgmt", "Food Delivery", "AdTech"]     ║
+║       languages : ["TypeScript", "JavaScript", "Python",         ║
+║                    "Dart", "Kotlin", "HTML", "CSS"],             ║
+║       frontend  : ["React", "Next.js", "Tailwind CSS"],          ║
+║       backend   : ["Node.js", "Express.js"],                     ║
+║       mobile    : ["Flutter", "Android (Kotlin)"],               ║
+║       domains   : ["AI Systems", "E-Commerce", "FinTech",        ║
+║                    "Hotel Mgmt", "Food Delivery", "AdTech"]      ║
 ║     },                                                           ║
 ║                                                                  ║
 ║     flagship : [                                                 ║
-║       "J.A.R.V.I.S  — Cybernetic AI Assistant",                ║
-║       "Nexus AI Suite — Full AI Platform",                      ║
+║       "J.A.R.V.I.S  — Cybernetic AI Assistant",                  ║
+║       "Nexus AI Suite — Full AI Platform",                       ║
 ║       "v0 E-Commerce Platform",                                  ║
-║       "FooDex — Food Delivery System",                          ║
+║       "FooDex — Food Delivery System",                           ║
 ║       "HOTEL-BOOKING Enterprise System",                         ║
-║       "AdsBajar — Mobile Ads App"                               ║
+║       "AdsBajar — Mobile Ads App"                                ║
 ║     ],                                                           ║
 ║                                                                  ║
-║     currentGoal : "Securing a top-tier tech internship",        ║
-║     openTo      : ["Internships", "Collabs", "Open Source"],    ║
-║     contact     : "pranavrathod1330@gmail.com",                 ║
+║     currentGoal : "Securing a top-tier tech internship",         ║
+║     openTo      : ["Internships", "Collabs", "Open Source"],     ║
+║     contact     : "pranavrathod1330@gmail.com",                  ║
 ║                                                                  ║
-║     funFact : "I built an AI assistant at 18. What's ur excuse?"║
+║     funFact : "I built an AI assistant at 18. What's ur excuse?" ║
 ║                                                                  ║
 ║   };                                                             ║
 ║                                                                  ║
